@@ -18,7 +18,7 @@ Créer un fichier .env pour les variables d'environnements avec dedans votre cl�
 
 ### Backend
 
-Clonez ce dépôt sur votre machine locale : git clone https://github.com/nimA45/Project
+Clonez ce dépôt sur votre machine locale : git clone https://github.com/nimA45/EngineeringProjectM2
 
 Accédez au dossier backend : `cd back`
 
