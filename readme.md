@@ -10,8 +10,10 @@ Node.js (version 12 ou supérieure)
 
 Python (version 3.7 ou supérieure)
 
-Créer un fichier .env pour les variables d'environnements avec dedans votre clé API OpenAI et un mot de passe admin : 
+Créer un fichier .env pour les variables d'environnements avec dedans votre clé API OpenAI et un mot de passe admin :
+ 
 `OPENAI_API_KEY=
+
 ADMIN_PASSWORD=123456`
 
 ### Backend
