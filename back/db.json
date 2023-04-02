@@ -1,0 +1,333 @@
+{
+   "data": [
+      {
+         "name": "plumber1",
+         "job": "plumber1",
+         "experience": 1,
+         "questions": [
+            {
+               "id": 0,
+               "question": "You are a plumber with 1 year of experience. You are called to a customer's house to fix a leaking pipe. Upon arriving, you discover that the pipe is corroded and needs to be replaced. How would you approach this problem? What steps would you take to ensure the pipe is fixed correctly and safely? What tools and materials would you need for the job?",
+               "user_answer": "i will change the pipe and oil the bathroom",
+               "chat_response": "Your answer is graded as 4/10. Answer only mentions changing the pipe and oiling the bathroom, but does not mention any of the other steps involved in the process such as identifying the problem, assessing the situation, determining the tools and materials needed, or following safety protocols. Additionally, you should provide more details about the steps you would take to ensure the pipe is fixed correctly and safely.",
+               "keyword_questions": [
+                  {
+                     "id": 0,
+                     "question": "\n\nData Structures\n\nQ: How could a self-balancing binary search tree be used to efficiently store and retrieve data?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 1,
+                     "question": "\nJavaScript\n\nWhat is the difference between a 'var' and 'let' in JavaScript?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 2,
+                     "question": "\n\nNetworking\n\nWhat are the design considerations for creating a secure and reliable wireless network?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 3,
+                     "question": "\nObject-Oriented Programming\n\nWhat advantages does object-oriented programming offer over traditional procedural programming for software development?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 4,
+                     "question": "\n\nHTML\n\nWhat are the different types of HTML5 semantic elements and how do they improve SEO?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 5,
+                     "question": "\n\nData Warehousing\n\nWhat are the benefits of using a dimensional data model in data warehousing?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 6,
+                     "question": "\n\nJavaScript\n\nQ: What is the difference between a JavaScript closure and a regular function?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 7,
+                     "question": "\n\nJavaScript\n\nWhat is the difference between a closure in JavaScript and a regular function?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 8,
+                     "question": "\n\nSQL\n\nWhat are the advantages and disadvantages of using stored procedures in SQL?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 9,
+                     "question": "/B testing\n\nWhat are the best practices for setting up an A/B test in order to ensure reliable results?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 10,
+                     "question": "onic\n\nWhat are the advantages and disadvantages of using Ionic for mobile application development?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 11,
+                     "question": "\n\nComputer Networking\n\nWhat are the benefits of using a virtual private network (VPN) for computer networking?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 12,
+                     "question": "\n\nWhat are the key benefits of using a microservices architecture in a web application?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 13,
+                     "question": "\nJava\n\nWhat is the difference between a try-catch block and a try-with-resources block in Java?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 14,
+                     "question": "Data Science]:\n\nWhat is the difference between supervised and unsupervised learning in data science?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 15,
+                     "question": "Cloud Computing'\n\nWhat are the major differences between Infrastructure-as-a-Service (IaaS) and Platform-as-a-Service (PaaS) in cloud computing?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 16,
+                     "question": "YTHON\n\nWhat are the benefits of using Python as a programming language for developing web applications?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 17,
+                     "question": "os\n\nWhat are the differences between the iOS SDK and the iOS Core Frameworks?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 18,
+                     "question": "ythons\n\nWhat are the advantages and disadvantages of using Python's lambda functions?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 19,
+                     "question": "-commerce\n\nWhat are the key components of an effective e-commerce platform, and how can they be used to drive customer engagement?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 20,
+                     "question": "Networking'\n\nWhat are the advantages of using VLANs in a network and how can they be implemented?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 21,
+                     "question": "\n\nWhat is the difference between a distributed computing system and a distributed database system?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 22,
+                     "question": "\nComputer Networking\n\nWhat is the concept of Quality of Service (QoS) and how can it be used to optimize network performance?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 23,
+                     "question": "networking\n\nWhat are the differences between Layer 2 and Layer 3 networking and how do they affect network performance?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 24,
+                     "question": "OP\n\nWhat are the main principles of Object Oriented Programming (OOP) and how do they help to improve code readability and maintainability?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 25,
+                     "question": "os\n\nWhat are the differences between the UIKit and AppKit frameworks in iOS development?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 26,
+                     "question": "aravel\n\nWhat are the main benefits of using Laravel's Eloquent ORM for database operations?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 27,
+                     "question": "Data Science'\n\nWhat are the key components of a successful data science project and how do they interact with each other?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 28,
+                     "question": "\n\nWhat are the best practices for developing a secure web application?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 29,
+                     "question": "\nComputer Networking\n\nWhat is the difference between the Transmission Control Protocol (TCP) and the User Datagram Protocol (UDP) in terms of their structure, function, and use in computer networking?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 30,
+                     "question": "Data Structures\n\nQ: What is the time complexity of a binary search tree for insertion, deletion, and retrieval?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 31,
+                     "question": "2B\n\nWhat are the key benefits of a B2B e-commerce platform for businesses?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 32,
+                     "question": " topic\n\nWhat are the best practices for using an object-relational mapping library in a distributed system?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 33,
+                     "question": "kinter\n\nWhat are the techniques used to create a custom widget in tkinter?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 34,
+                     "question": "taccess\n\nWhat is the best way to use htaccess to control access to specific files or directories on a web server?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 35,
+                     "question": " programming\n\nWhat are the differences between the apply, lapply, and sapply functions in R programming and when should each be used?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 36,
+                     "question": "Auth\n\nWhat are the security considerations when implementing oAuth 2.0 authorization flows?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 37,
+                     "question": "ops\n\nWhat is the difference between a class and an object in object-oriented programming?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 38,
+                     "question": "aven\n\nWhat is the purpose of the Maven Transitive Dependency Mechanism?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 39,
+                     "question": "Artificial Intelligence\n\nWhat are the current challenges associated with developing Artificial General Intelligence (AGI) systems?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 40,
+                     "question": "\n\nWhat is the most efficient way to optimize a deep learning neural network for image recognition?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  }
+               ]
+            },
+            {
+               "id": 1,
+               "question": "You are a plumber with 1 year of experience. You are called to a home to fix a broken pipe. Upon inspection, you find that the pipe is corroded and needs to be replaced. How would you go about replacing the pipe to ensure that the job is done correctly and safely? What tools and materials would you need to complete the job?",
+               "user_answer": "",
+               "chat_response": "",
+               "keyword_questions": []
+            }
+         ],
+         "id": "9GHOKE"
+      },
+      {
+         "name": "soft",
+         "job": "software engineer",
+         "experience": 1,
+         "questions": [
+            {
+               "id": 0,
+               "question": "You are a software engineer with 1 year of experience. You have been tasked with developing a web application for a client that needs to be able to process large amounts of data in real-time. How would you approach this problem? What techniques would you use to design the application and ensure its performance?",
+               "user_answer": "i will use spark with aws notebook",
+               "chat_response": "Your answer is graded as 5/10. Answer only mentions using Spark with AWS notebook to design the application, but does not mention any of the other steps involved in the process such as understanding the client's requirements, designing the application architecture, creating the user interface, or using other technologies to ensure performance. Additionally, you should provide more details about the technologies that could be used to build the application and ensure performance.",
+               "keyword_questions": [
+                  {
+                     "id": 0,
+                     "question": "\n\nWhat is the process for setting up a Spark cluster to run applications in a distributed manner?",
+                     "user_answer": "I dont know",
+                     "chat_response": "Your answer is graded as 0/10. You did not provide an answer to the question."
+                  },
+                  {
+                     "id": 1,
+                     "question": "\n\nWhat are the advantages of using AWS Lambda for serverless computing?",
+                     "user_answer": "idk",
+                     "chat_response": "Your answer is graded as 0/10. Your answer does not provide any information about the advantages of using AWS Lambda for serverless computing. To answer this question, you should provide details about the advantages of using AWS Lambda, such as scalability, cost-effectiveness, and flexibility."
+                  },
+                  {
+                     "id": 2,
+                     "question": "\n\nWhat are the differences between a laptop and a notebook computer in terms of hardware components and performance?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  }
+               ]
+            },
+            {
+               "id": 1,
+               "question": "You are a software engineer with 1 year of experience. You have been tasked with building a web-based application that will allow users to access and manage their medical records. How would you approach this problem? What technologies would you use to build the application and ensure its security? What measures would you put in place to ensure the application is user-friendly and efficient?",
+               "user_answer": "I will do a ux research and see the requirement for the best usability",
+               "chat_response": "Your answer is graded as 8/10. Answer mentions doing UX research to understand user needs, as well as the technologies that could be used to build the application. However, you do not provide any details about the technologies that could be used or the measures that could be put in place to ensure the application is secure, user-friendly, and efficient. Additionally, you should provide more details about the technologies that could be used to build the application and ensure its security, as well as the measures that could be put in place to ensure user-friendliness and efficiency.",
+               "keyword_questions": [
+                  {
+                     "id": 0,
+                     "question": "\n\nWhat methods do you use to identify user needs and preferences during the UX research process?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 1,
+                     "question": "\n\nWhat are the key usability principles that should be considered when designing a user interface?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  },
+                  {
+                     "id": 2,
+                     "question": "\n\nWhat is the most effective way to ensure that all requirements are properly understood and documented before development begins?",
+                     "user_answer": "",
+                     "chat_response": ""
+                  }
+               ]
+            }
+         ],
+         "id": "IG5ICX"
+      }
+   ]
+}

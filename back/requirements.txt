@@ -1,0 +1,7 @@
+fastapi==0.95.0
+psycopg2==2.9.5
+pydantic==1.10.7
+PyJWT==2.6.0
+pysondb==1.6.7
+python-dotenv==1.0.0
+uvicorn==0.21.1
