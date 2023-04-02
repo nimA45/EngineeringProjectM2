@@ -10,6 +10,9 @@ Node.js (version 12 ou supérieure)
 
 Python (version 3.7 ou supérieure)
 
+Créer un fichier .env pour les variables d'environnements avec dedans votre clé API OpenAI et un mot de passe admin : `OPENAI_API_KEY=
+ADMIN_PASSWORD=123456`
+
 ### Backend
 
 Clonez ce dépôt sur votre machine locale : git clone https://github.com/nimA45/Project
@@ -17,8 +20,6 @@ Clonez ce dépôt sur votre machine locale : git clone https://github.com/nimA45
 Accédez au dossier backend : `cd back`
 
 Installez les dépendances : `pip install -r requirements.txt`
-
-Configurez les variables d'environnement dans le fichier .env dans la racine du projet en ajoutant un mot de passe admin et votre clé API OpenAI que vous pouvez récupérer gratuitement avec votre compte sur leur site.
 
 Lancez le serveur : `python main.py`
 
